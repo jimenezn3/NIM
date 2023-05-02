@@ -4,6 +4,7 @@ Implementation of a simple, math-based strategy game, Nim. The user plays agains
 
 # Instructions for Use
 
-``` g++ -o nim nim.cpp
-    ./nim
+``` 
+g++ -o nim nim.cpp
+./nim
 ```
